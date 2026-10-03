@@ -23,4 +23,3 @@ The bot retrieves Google Flights data through SerpApi, matches the results to th
 ![Discord notification showing an unchanged price](image-1.png)
 
 ![Discord notification showing a price drop](image-2.png)
-# FLIGHT_TRACKER
